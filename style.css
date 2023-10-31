@@ -1,0 +1,51 @@
+.heading-div
+{
+    background-color: darkslategray;
+    height: 70px;
+    position: sticky;
+    z-index: 9999;
+    top: 0;
+}
+
+.r
+{
+    color:cyan;
+}
+
+.bottomIniciar
+{
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    font-size: 100%;
+}
+
+body
+{
+    font-family: 'Belanosima', sans-serif;
+    font-family: 'Kay Pho Du', serif;
+    background-color: rgb(76, 209, 165);
+}
+
+p
+{
+    font-family: 'Belanosima', sans-serif;
+    font-family: 'Kay Pho Du', serif;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.copy_right_footer
+{
+    background-color: rgb(73, 175, 234);
+    color:rgb(0, 0, 0);
+    height:50px;
+    font-size:30px;
+    text-align: center;
+}
+
+#image
+{
+    height: 418px;
+    width: 418px;
+}
